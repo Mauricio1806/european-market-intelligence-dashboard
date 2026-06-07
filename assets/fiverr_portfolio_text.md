@@ -3,21 +3,23 @@
 ## Title
 European Market Intelligence Dashboard
 
-## Short Description
-Built a complete public API data pipeline to collect European economic indicators, clean and structure the data, export CSV/Excel files, store the results in SQLite and visualize country-level insights in an interactive dashboard.
+## Description
+Built a complete public data pipeline and dashboard to analyze selected European markets using World Bank economic indicators.
 
-## What Was Delivered
-- Automated API extraction
+The delivery includes automated API extraction, cleaned CSV/Excel datasets, SQLite storage and an interactive dashboard for country comparison, market ranking and historical trend analysis.
+
+## Delivered
+- API extraction pipeline
 - Clean European market dataset
-- CSV and Excel reporting files
+- Excel and CSV outputs
 - SQLite database
-- Interactive Streamlit dashboard
-- Country comparison analysis
-- Economic trend analysis
-- Market ranking view
+- Executive dashboard
+- Country comparison
+- Market ranking
+- Trend analysis
 
 ## Skills
-Python, API Integration, Requests, Pandas, Streamlit, Plotly, SQLite, Excel, CSV, Data Cleaning, Business Intelligence, Market Research
+Python, API Integration, Pandas, Streamlit, Plotly, SQLite, Excel, CSV, Data Cleaning, Business Intelligence, Market Research
 
-## Business Value
-This solution helps businesses automate European market research, compare countries, analyze public indicators and create reusable datasets for executive reporting and expansion analysis.
+## Business Use
+Useful for European market research, expansion analysis, public data automation, country benchmarking and executive reporting.
