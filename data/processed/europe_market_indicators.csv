@@ -1,0 +1,1057 @@
+country,country_code,year,indicator_name,indicator_code,value
+Austria,AUT,2024,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.93791574279375
+Austria,AUT,2023,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,7.81413417002831
+Austria,AUT,2022,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,8.54686993188457
+Austria,AUT,2021,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.7666666666667
+Austria,AUT,2020,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.38191063351853
+Austria,AUT,2019,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.53089564152643
+Austria,AUT,2018,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.99837981429548
+Austria,AUT,2017,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.08126911385586
+Austria,AUT,2016,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.891591752655362
+Austria,AUT,2015,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.896563335260319
+Austria,AUT,2014,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.60581182954473
+Belgium,BEL,2024,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.14349136500041
+Belgium,BEL,2023,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,4.04901077613941
+Belgium,BEL,2022,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,9.597511728725
+Belgium,BEL,2021,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.44024851144084
+Belgium,BEL,2020,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.740791812220343
+Belgium,BEL,2019,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.43681956996438
+Belgium,BEL,2018,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.05316499865177
+Belgium,BEL,2017,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.12597086002616
+Belgium,BEL,2016,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.97385264653162
+Belgium,BEL,2015,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.561429152790157
+Belgium,BEL,2014,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.340002833356921
+Switzerland,CHE,2024,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.06234041976594
+Switzerland,CHE,2023,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.13540088016386
+Switzerland,CHE,2022,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.83502798644451
+Switzerland,CHE,2021,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.581814168489855
+Switzerland,CHE,2020,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,-0.725874933313402
+Switzerland,CHE,2019,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.362886179940674
+Switzerland,CHE,2018,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.936335464113572
+Switzerland,CHE,2017,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.533787839825876
+Switzerland,CHE,2016,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,-0.434618664285814
+Switzerland,CHE,2015,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,-1.14390867228178
+Switzerland,CHE,2014,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,-0.0132025387515945
+Germany,DEU,2024,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.2564981433876
+Germany,DEU,2023,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,5.94643667725823
+Germany,DEU,2022,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,6.87257438551096
+Germany,DEU,2021,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.06666666666673
+Germany,DEU,2020,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.144877925813981
+Germany,DEU,2019,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.44565976888253
+Germany,DEU,2018,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.73216879766941
+Germany,DEU,2017,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.50949485109628
+Germany,DEU,2016,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.491747008445174
+Germany,DEU,2015,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.514426137125456
+Germany,DEU,2014,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.906794000434245
+Denmark,DNK,2024,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.37220049768925
+Denmark,DNK,2023,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.30517811237605
+Denmark,DNK,2022,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,7.69656699889259
+Denmark,DNK,2021,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.85304543989689
+Denmark,DNK,2020,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.420711974110024
+Denmark,DNK,2019,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.75813157251162
+Denmark,DNK,2018,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.813609467455631
+Denmark,DNK,2017,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.14713216957601
+Denmark,DNK,2016,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.250000000000031
+Denmark,DNK,2015,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.452034153691574
+Denmark,DNK,2014,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.56402054044954
+Spain,ESP,2024,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.77417826534772
+Spain,ESP,2023,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.53236133492432
+Spain,ESP,2022,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,8.39057634118626
+Spain,ESP,2021,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.09313511976419
+Spain,ESP,2020,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,-0.322753017299739
+Spain,ESP,2019,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.699518994458738
+Spain,ESP,2018,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.6749813686379
+Spain,ESP,2017,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.95607633363963
+Spain,ESP,2016,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,-0.202598000426452
+Spain,ESP,2015,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,-0.500365709903242
+Spain,ESP,2014,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,-0.151114837527234
+Finland,FIN,2024,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.56568906231615
+Finland,FIN,2023,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,6.25064322154762
+Finland,FIN,2022,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,7.12350773301402
+Finland,FIN,2021,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.19457432340007
+Finland,FIN,2020,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.290554555653239
+Finland,FIN,2019,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.0240939296343
+Finland,FIN,2018,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.08382098409305
+Finland,FIN,2017,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.754015047084346
+Finland,FIN,2016,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.356684500891695
+Finland,FIN,2015,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,-0.207928839905268
+Finland,FIN,2014,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.04119621178439
+France,FRA,2024,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.99904942291462
+France,FRA,2023,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,4.8783572650844
+France,FRA,2022,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,5.22236748369725
+France,FRA,2021,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.64233141038393
+France,FRA,2020,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.476498852725065
+France,FRA,2019,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.10825492288293
+France,FRA,2018,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.85081508315492
+France,FRA,2017,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.03228275064681
+France,FRA,2016,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.183334861123764
+France,FRA,2015,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.0375143805125181
+France,FRA,2014,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.507758822937989
+United Kingdom,GBR,2024,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.2715729463592
+United Kingdom,GBR,2023,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,6.79396706793963
+United Kingdom,GBR,2022,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,7.92204883147902
+United Kingdom,GBR,2021,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.51837109614213
+United Kingdom,GBR,2020,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.989486703772491
+United Kingdom,GBR,2019,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.73810460086513
+United Kingdom,GBR,2018,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.29283990345938
+United Kingdom,GBR,2017,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.55775577557747
+United Kingdom,GBR,2016,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.0084173681141
+United Kingdom,GBR,2015,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.36804684232536
+United Kingdom,GBR,2014,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.45112016293279
+Ireland,IRL,2024,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.11344999577317
+Ireland,IRL,2023,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,6.29942487419125
+Ireland,IRL,2022,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,7.82945736434105
+Ireland,IRL,2021,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.34034113447044
+Ireland,IRL,2020,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,-0.326183651280033
+Ireland,IRL,2019,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.937842961189274
+Ireland,IRL,2018,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.471130713712916
+Ireland,IRL,2017,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.362173038229378
+Ireland,IRL,2016,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.0201247735963237
+Ireland,IRL,2015,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,-0.330959783371788
+Ireland,IRL,2014,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.190916398713745
+Italy,ITA,2024,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.982373023061417
+Italy,ITA,2023,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,5.62219442195901
+Italy,ITA,2022,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,8.20128991161718
+Italy,ITA,2021,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.87378325762481
+Italy,ITA,2020,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,-0.13770757391651
+Italy,ITA,2019,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.611246943765304
+Italy,ITA,2018,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.13748763600391
+Italy,ITA,2017,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.22653316645812
+Italy,ITA,2016,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,-0.09401665691575
+Italy,ITA,2015,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.0387903996579733
+Italy,ITA,2014,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.241047429826756
+Netherlands,NLD,2024,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.34754304219953
+Netherlands,NLD,2023,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.83839354342808
+Netherlands,NLD,2022,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,10.0012078753473
+Netherlands,NLD,2021,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.67572008805385
+Netherlands,NLD,2020,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.27246037789161
+Netherlands,NLD,2019,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.63369910249591
+Netherlands,NLD,2018,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.70349794744479
+Netherlands,NLD,2017,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.38145871407216
+Netherlands,NLD,2016,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.316666666666652
+Netherlands,NLD,2015,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.600248147278776
+Netherlands,NLD,2014,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.976035079699679
+Norway,NOR,2024,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.14530134431081
+Norway,NOR,2023,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,5.51784987104659
+Norway,NOR,2022,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,5.76412317852272
+Norway,NOR,2021,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.48388055266669
+Norway,NOR,2020,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.28658490707996
+Norway,NOR,2019,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.16773003305411
+Norway,NOR,2018,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.76483134528797
+Norway,NOR,2017,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.87510059552545
+Norway,NOR,2016,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.55000000000007
+Norway,NOR,2015,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.17113665389527
+Norway,NOR,2014,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.04170286707211
+Poland,POL,2024,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.79060897630197
+Poland,POL,2023,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,11.5289127961105
+Poland,POL,2022,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,14.4294507575758
+Poland,POL,2021,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,5.05502704719272
+Poland,POL,2020,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.37446972618589
+Poland,POL,2019,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.22747880938291
+Poland,POL,2018,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.81295156542689
+Poland,POL,2017,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.07593553673859
+Poland,POL,2016,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,-0.664767331433962
+Poland,POL,2015,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,-0.874125874125862
+Poland,POL,2014,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.0538213132399802
+Portugal,PRT,2024,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.41613187791884
+Portugal,PRT,2023,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,4.31128191898672
+Portugal,PRT,2022,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,7.83269124233323
+Portugal,PRT,2021,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.26565719069044
+Portugal,PRT,2020,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,-0.0124383299575305
+Portugal,PRT,2019,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.338178410046034
+Portugal,PRT,2018,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.993715683468326
+Portugal,PRT,2017,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.36861411643472
+Portugal,PRT,2016,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.607397074641719
+Portugal,PRT,2015,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.48793862390472
+Portugal,PRT,2014,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,-0.278153367467428
+Sweden,SWE,2024,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.83581658224034
+Sweden,SWE,2023,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,8.5486248974891
+Sweden,SWE,2022,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,8.36929098869189
+Sweden,SWE,2021,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.16319736447143
+Sweden,SWE,2020,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.497367318853572
+Sweden,SWE,2019,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.78415097403835
+Sweden,SWE,2018,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.95353530127028
+Sweden,SWE,2017,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.79449904665599
+Sweden,SWE,2016,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.984269244577992
+Sweden,SWE,2015,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,-0.0467847449832812
+Sweden,SWE,2014,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,-0.179638494114635
+Austria,AUT,2024,Individuals using the Internet (% of population),IT.NET.USER.ZS,94.91974877
+Austria,AUT,2023,Individuals using the Internet (% of population),IT.NET.USER.ZS,95.33467117
+Austria,AUT,2022,Individuals using the Internet (% of population),IT.NET.USER.ZS,93.61409139
+Austria,AUT,2021,Individuals using the Internet (% of population),IT.NET.USER.ZS,92.52915104
+Austria,AUT,2020,Individuals using the Internet (% of population),IT.NET.USER.ZS,87.52942813
+Austria,AUT,2019,Individuals using the Internet (% of population),IT.NET.USER.ZS,87.7522047870069
+Austria,AUT,2018,Individuals using the Internet (% of population),IT.NET.USER.ZS,87.4791372262556
+Austria,AUT,2017,Individuals using the Internet (% of population),IT.NET.USER.ZS,87.9355865856062
+Austria,AUT,2016,Individuals using the Internet (% of population),IT.NET.USER.ZS,84.3237425711653
+Austria,AUT,2015,Individuals using the Internet (% of population),IT.NET.USER.ZS,83.9401419315026
+Austria,AUT,2014,Individuals using the Internet (% of population),IT.NET.USER.ZS,80.9958249574764
+Belgium,BEL,2024,Individuals using the Internet (% of population),IT.NET.USER.ZS,95.77579144
+Belgium,BEL,2023,Individuals using the Internet (% of population),IT.NET.USER.ZS,94.62625074
+Belgium,BEL,2022,Individuals using the Internet (% of population),IT.NET.USER.ZS,94.00783071
+Belgium,BEL,2021,Individuals using the Internet (% of population),IT.NET.USER.ZS,92.78867618
+Belgium,BEL,2020,Individuals using the Internet (% of population),IT.NET.USER.ZS,91.52641629
+Belgium,BEL,2019,Individuals using the Internet (% of population),IT.NET.USER.ZS,90.275428012141
+Belgium,BEL,2018,Individuals using the Internet (% of population),IT.NET.USER.ZS,88.6473429951691
+Belgium,BEL,2017,Individuals using the Internet (% of population),IT.NET.USER.ZS,87.6796808175598
+Belgium,BEL,2016,Individuals using the Internet (% of population),IT.NET.USER.ZS,86.5164766644457
+Belgium,BEL,2015,Individuals using the Internet (% of population),IT.NET.USER.ZS,85.0529417508701
+Belgium,BEL,2014,Individuals using the Internet (% of population),IT.NET.USER.ZS,85.0012379539925
+Switzerland,CHE,2024,Individuals using the Internet (% of population),IT.NET.USER.ZS,97.3443985
+Switzerland,CHE,2023,Individuals using the Internet (% of population),IT.NET.USER.ZS,97.34436623
+Switzerland,CHE,2022,Individuals using the Internet (% of population),IT.NET.USER.ZS,96.45279694
+Switzerland,CHE,2021,Individuals using the Internet (% of population),IT.NET.USER.ZS,95.56937154
+Switzerland,CHE,2020,Individuals using the Internet (% of population),IT.NET.USER.ZS,94.34999847
+Switzerland,CHE,2019,Individuals using the Internet (% of population),IT.NET.USER.ZS,93.1460869535177
+Switzerland,CHE,2018,Individuals using the Internet (% of population),IT.NET.USER.ZS,91.80000305
+Switzerland,CHE,2017,Individuals using the Internet (% of population),IT.NET.USER.ZS,89.6861476710225
+Switzerland,CHE,2016,Individuals using the Internet (% of population),IT.NET.USER.ZS,89.1346877351392
+Switzerland,CHE,2015,Individuals using the Internet (% of population),IT.NET.USER.ZS,87.4790555978675
+Switzerland,CHE,2014,Individuals using the Internet (% of population),IT.NET.USER.ZS,83.6172512621702
+Germany,DEU,2024,Individuals using the Internet (% of population),IT.NET.USER.ZS,93.49999579
+Germany,DEU,2023,Individuals using the Internet (% of population),IT.NET.USER.ZS,92.4763763
+Germany,DEU,2022,Individuals using the Internet (% of population),IT.NET.USER.ZS,91.62984383
+Germany,DEU,2021,Individuals using the Internet (% of population),IT.NET.USER.ZS,91.43060973
+Germany,DEU,2020,Individuals using the Internet (% of population),IT.NET.USER.ZS,89.81294133
+Germany,DEU,2019,Individuals using the Internet (% of population),IT.NET.USER.ZS,88.1345169091916
+Germany,DEU,2018,Individuals using the Internet (% of population),IT.NET.USER.ZS,87.037112092841
+Germany,DEU,2017,Individuals using the Internet (% of population),IT.NET.USER.ZS,84.3941537010844
+Germany,DEU,2016,Individuals using the Internet (% of population),IT.NET.USER.ZS,84.1652066441212
+Germany,DEU,2015,Individuals using the Internet (% of population),IT.NET.USER.ZS,87.5897993525767
+Germany,DEU,2014,Individuals using the Internet (% of population),IT.NET.USER.ZS,86.1937006578756
+Denmark,DNK,2024,Individuals using the Internet (% of population),IT.NET.USER.ZS,99.76915157
+Denmark,DNK,2023,Individuals using the Internet (% of population),IT.NET.USER.ZS,98.77559197
+Denmark,DNK,2022,Individuals using the Internet (% of population),IT.NET.USER.ZS,97.86011812
+Denmark,DNK,2021,Individuals using the Internet (% of population),IT.NET.USER.ZS,98.8658506
+Denmark,DNK,2020,Individuals using the Internet (% of population),IT.NET.USER.ZS,96.54914573
+Denmark,DNK,2019,Individuals using the Internet (% of population),IT.NET.USER.ZS,98.0464347521549
+Denmark,DNK,2018,Individuals using the Internet (% of population),IT.NET.USER.ZS,97.3192043651002
+Denmark,DNK,2017,Individuals using the Internet (% of population),IT.NET.USER.ZS,97.0993621555621
+Denmark,DNK,2016,Individuals using the Internet (% of population),IT.NET.USER.ZS,96.9677852516645
+Denmark,DNK,2015,Individuals using the Internet (% of population),IT.NET.USER.ZS,96.3305016195436
+Denmark,DNK,2014,Individuals using the Internet (% of population),IT.NET.USER.ZS,95.9935053764454
+Spain,ESP,2024,Individuals using the Internet (% of population),IT.NET.USER.ZS,95.7574516
+Spain,ESP,2023,Individuals using the Internet (% of population),IT.NET.USER.ZS,95.44564516
+Spain,ESP,2022,Individuals using the Internet (% of population),IT.NET.USER.ZS,94.4855432
+Spain,ESP,2021,Individuals using the Internet (% of population),IT.NET.USER.ZS,93.89752157
+Spain,ESP,2020,Individuals using the Internet (% of population),IT.NET.USER.ZS,93.20564892
+Spain,ESP,2019,Individuals using the Internet (% of population),IT.NET.USER.ZS,90.718665325267
+Spain,ESP,2018,Individuals using the Internet (% of population),IT.NET.USER.ZS,86.107235525659
+Spain,ESP,2017,Individuals using the Internet (% of population),IT.NET.USER.ZS,84.6022457016524
+Spain,ESP,2016,Individuals using the Internet (% of population),IT.NET.USER.ZS,80.5613329432179
+Spain,ESP,2015,Individuals using the Internet (% of population),IT.NET.USER.ZS,78.6896318703515
+Spain,ESP,2014,Individuals using the Internet (% of population),IT.NET.USER.ZS,76.1867089778712
+Finland,FIN,2024,Individuals using the Internet (% of population),IT.NET.USER.ZS,93.72405196
+Finland,FIN,2023,Individuals using the Internet (% of population),IT.NET.USER.ZS,93.51385075
+Finland,FIN,2022,Individuals using the Internet (% of population),IT.NET.USER.ZS,92.98879471
+Finland,FIN,2021,Individuals using the Internet (% of population),IT.NET.USER.ZS,92.80806082
+Finland,FIN,2020,Individuals using the Internet (% of population),IT.NET.USER.ZS,92.17027106
+Finland,FIN,2019,Individuals using the Internet (% of population),IT.NET.USER.ZS,89.6073851129779
+Finland,FIN,2018,Individuals using the Internet (% of population),IT.NET.USER.ZS,88.8899599985585
+Finland,FIN,2017,Individuals using the Internet (% of population),IT.NET.USER.ZS,87.4689290730615
+Finland,FIN,2016,Individuals using the Internet (% of population),IT.NET.USER.ZS,87.7036499599455
+Finland,FIN,2015,Individuals using the Internet (% of population),IT.NET.USER.ZS,86.4221333325445
+Finland,FIN,2014,Individuals using the Internet (% of population),IT.NET.USER.ZS,86.5303927529377
+France,FRA,2024,Individuals using the Internet (% of population),IT.NET.USER.ZS,88.65381638
+France,FRA,2023,Individuals using the Internet (% of population),IT.NET.USER.ZS,86.83635789
+France,FRA,2022,Individuals using the Internet (% of population),IT.NET.USER.ZS,85.33331734
+France,FRA,2021,Individuals using the Internet (% of population),IT.NET.USER.ZS,86.09548575
+France,FRA,2020,Individuals using the Internet (% of population),IT.NET.USER.ZS,84.70639801
+France,FRA,2019,Individuals using the Internet (% of population),IT.NET.USER.ZS,83.3397440866883
+France,FRA,2018,Individuals using the Internet (% of population),IT.NET.USER.ZS,82.0431867788484
+France,FRA,2017,Individuals using the Internet (% of population),IT.NET.USER.ZS,80.5024597243607
+France,FRA,2016,Individuals using the Internet (% of population),IT.NET.USER.ZS,79.2698113207547
+France,FRA,2015,Individuals using the Internet (% of population),IT.NET.USER.ZS,78.0060377071902
+France,FRA,2014,Individuals using the Internet (% of population),IT.NET.USER.ZS,83.7510996681821
+United Kingdom,GBR,2024,Individuals using the Internet (% of population),IT.NET.USER.ZS,95.4720993
+United Kingdom,GBR,2023,Individuals using the Internet (% of population),IT.NET.USER.ZS,95.44719696
+United Kingdom,GBR,2022,Individuals using the Internet (% of population),IT.NET.USER.ZS,95.46530151
+United Kingdom,GBR,2021,Individuals using the Internet (% of population),IT.NET.USER.ZS,96.19650269
+United Kingdom,GBR,2020,Individuals using the Internet (% of population),IT.NET.USER.ZS,94.81820132
+United Kingdom,GBR,2019,Individuals using the Internet (% of population),IT.NET.USER.ZS,92.5166285497138
+United Kingdom,GBR,2018,Individuals using the Internet (% of population),IT.NET.USER.ZS,90.692008988783
+United Kingdom,GBR,2017,Individuals using the Internet (% of population),IT.NET.USER.ZS,90.4245504868553
+United Kingdom,GBR,2016,Individuals using the Internet (% of population),IT.NET.USER.ZS,94.7758006318882
+United Kingdom,GBR,2015,Individuals using the Internet (% of population),IT.NET.USER.ZS,92.0002998740234
+United Kingdom,GBR,2014,Individuals using the Internet (% of population),IT.NET.USER.ZS,91.6133009176453
+Ireland,IRL,2024,Individuals using the Internet (% of population),IT.NET.USER.ZS,97.18769836
+Ireland,IRL,2023,Individuals using the Internet (% of population),IT.NET.USER.ZS,96.8660965
+Ireland,IRL,2022,Individuals using the Internet (% of population),IT.NET.USER.ZS,95.03690338
+Ireland,IRL,2021,Individuals using the Internet (% of population),IT.NET.USER.ZS,93.50610352
+Ireland,IRL,2020,Individuals using the Internet (% of population),IT.NET.USER.ZS,91.99989097
+Ireland,IRL,2019,Individuals using the Internet (% of population),IT.NET.USER.ZS,87.0000552425146
+Ireland,IRL,2018,Individuals using the Internet (% of population),IT.NET.USER.ZS,87.0001401148942
+Ireland,IRL,2017,Individuals using the Internet (% of population),IT.NET.USER.ZS,84.1140070623844
+Ireland,IRL,2016,Individuals using the Internet (% of population),IT.NET.USER.ZS,83.5
+Ireland,IRL,2015,Individuals using the Internet (% of population),IT.NET.USER.ZS,83.4947916666667
+Ireland,IRL,2014,Individuals using the Internet (% of population),IT.NET.USER.ZS,83.4917223351728
+Italy,ITA,2024,Individuals using the Internet (% of population),IT.NET.USER.ZS,89.2207202
+Italy,ITA,2023,Individuals using the Internet (% of population),IT.NET.USER.ZS,87.0278292
+Italy,ITA,2022,Individuals using the Internet (% of population),IT.NET.USER.ZS,85.06074504
+Italy,ITA,2021,Individuals using the Internet (% of population),IT.NET.USER.ZS,74.8623274
+Italy,ITA,2020,Individuals using the Internet (% of population),IT.NET.USER.ZS,70.48342785
+Italy,ITA,2019,Individuals using the Internet (% of population),IT.NET.USER.ZS,67.8507102874836
+Italy,ITA,2018,Individuals using the Internet (% of population),IT.NET.USER.ZS,74.3871829234822
+Italy,ITA,2017,Individuals using the Internet (% of population),IT.NET.USER.ZS,63.0773469984291
+Italy,ITA,2016,Individuals using the Internet (% of population),IT.NET.USER.ZS,61.3242527666303
+Italy,ITA,2015,Individuals using the Internet (% of population),IT.NET.USER.ZS,58.1417349568747
+Italy,ITA,2014,Individuals using the Internet (% of population),IT.NET.USER.ZS,55.6384602242293
+Netherlands,NLD,2024,Individuals using the Internet (% of population),IT.NET.USER.ZS,97.00679779
+Netherlands,NLD,2023,Individuals using the Internet (% of population),IT.NET.USER.ZS,97.00680272
+Netherlands,NLD,2022,Individuals using the Internet (% of population),IT.NET.USER.ZS,92.51968504
+Netherlands,NLD,2021,Individuals using the Internet (% of population),IT.NET.USER.ZS,92.05298013
+Netherlands,NLD,2020,Individuals using the Internet (% of population),IT.NET.USER.ZS,91.33333333
+Netherlands,NLD,2019,Individuals using the Internet (% of population),IT.NET.USER.ZS,93.2885906040269
+Netherlands,NLD,2018,Individuals using the Internet (% of population),IT.NET.USER.ZS,91.8918918918919
+Netherlands,NLD,2017,Individuals using the Internet (% of population),IT.NET.USER.ZS,93.1972789115646
+Netherlands,NLD,2016,Individuals using the Internet (% of population),IT.NET.USER.ZS,90.4109589041096
+Netherlands,NLD,2015,Individuals using the Internet (% of population),IT.NET.USER.ZS,91.7241379310345
+Netherlands,NLD,2014,Individuals using the Internet (% of population),IT.NET.USER.ZS,91.6666666666667
+Norway,NOR,2024,Individuals using the Internet (% of population),IT.NET.USER.ZS,99.0
+Norway,NOR,2023,Individuals using the Internet (% of population),IT.NET.USER.ZS,99.00000258
+Norway,NOR,2022,Individuals using the Internet (% of population),IT.NET.USER.ZS,98.99997764
+Norway,NOR,2021,Individuals using the Internet (% of population),IT.NET.USER.ZS,99.0000036
+Norway,NOR,2020,Individuals using the Internet (% of population),IT.NET.USER.ZS,94.60755647
+Norway,NOR,2019,Individuals using the Internet (% of population),IT.NET.USER.ZS,98.0000043853142
+Norway,NOR,2018,Individuals using the Internet (% of population),IT.NET.USER.ZS,96.4916579887094
+Norway,NOR,2017,Individuals using the Internet (% of population),IT.NET.USER.ZS,96.3576012951191
+Norway,NOR,2016,Individuals using the Internet (% of population),IT.NET.USER.ZS,97.2982036675068
+Norway,NOR,2015,Individuals using the Internet (% of population),IT.NET.USER.ZS,96.810325691365
+Norway,NOR,2014,Individuals using the Internet (% of population),IT.NET.USER.ZS,96.3005098242892
+Poland,POL,2024,Individuals using the Internet (% of population),IT.NET.USER.ZS,88.58496367
+Poland,POL,2023,Individuals using the Internet (% of population),IT.NET.USER.ZS,86.414744
+Poland,POL,2022,Individuals using the Internet (% of population),IT.NET.USER.ZS,86.94113479
+Poland,POL,2021,Individuals using the Internet (% of population),IT.NET.USER.ZS,85.37490906
+Poland,POL,2020,Individuals using the Internet (% of population),IT.NET.USER.ZS,83.18488715
+Poland,POL,2019,Individuals using the Internet (% of population),IT.NET.USER.ZS,80.4359068768673
+Poland,POL,2018,Individuals using the Internet (% of population),IT.NET.USER.ZS,77.5417345350006
+Poland,POL,2017,Individuals using the Internet (% of population),IT.NET.USER.ZS,75.9853659493832
+Poland,POL,2016,Individuals using the Internet (% of population),IT.NET.USER.ZS,73.3007040962669
+Poland,POL,2015,Individuals using the Internet (% of population),IT.NET.USER.ZS,67.9969871556415
+Poland,POL,2014,Individuals using the Internet (% of population),IT.NET.USER.ZS,66.5987360557248
+Portugal,PRT,2024,Individuals using the Internet (% of population),IT.NET.USER.ZS,88.48704454
+Portugal,PRT,2023,Individuals using the Internet (% of population),IT.NET.USER.ZS,85.79012676
+Portugal,PRT,2022,Individuals using the Internet (% of population),IT.NET.USER.ZS,84.49690644
+Portugal,PRT,2021,Individuals using the Internet (% of population),IT.NET.USER.ZS,82.30902804
+Portugal,PRT,2020,Individuals using the Internet (% of population),IT.NET.USER.ZS,78.26166044
+Portugal,PRT,2019,Individuals using the Internet (% of population),IT.NET.USER.ZS,75.3463779408712
+Portugal,PRT,2018,Individuals using the Internet (% of population),IT.NET.USER.ZS,74.6609681487507
+Portugal,PRT,2017,Individuals using the Internet (% of population),IT.NET.USER.ZS,73.7912139515729
+Portugal,PRT,2016,Individuals using the Internet (% of population),IT.NET.USER.ZS,70.423567088723
+Portugal,PRT,2015,Individuals using the Internet (% of population),IT.NET.USER.ZS,68.6328614804299
+Portugal,PRT,2014,Individuals using the Internet (% of population),IT.NET.USER.ZS,64.5924200648949
+Sweden,SWE,2024,Individuals using the Internet (% of population),IT.NET.USER.ZS,95.52930428
+Sweden,SWE,2023,Individuals using the Internet (% of population),IT.NET.USER.ZS,95.70327461
+Sweden,SWE,2022,Individuals using the Internet (% of population),IT.NET.USER.ZS,95.00970335
+Sweden,SWE,2021,Individuals using the Internet (% of population),IT.NET.USER.ZS,94.6703163
+Sweden,SWE,2020,Individuals using the Internet (% of population),IT.NET.USER.ZS,94.53943122
+Sweden,SWE,2019,Individuals using the Internet (% of population),IT.NET.USER.ZS,94.4934434072202
+Sweden,SWE,2018,Individuals using the Internet (% of population),IT.NET.USER.ZS,89.2469631588137
+Sweden,SWE,2017,Individuals using the Internet (% of population),IT.NET.USER.ZS,93.0062669652127
+Sweden,SWE,2016,Individuals using the Internet (% of population),IT.NET.USER.ZS,89.6509476102355
+Sweden,SWE,2015,Individuals using the Internet (% of population),IT.NET.USER.ZS,90.6101966398616
+Sweden,SWE,2014,Individuals using the Internet (% of population),IT.NET.USER.ZS,92.5236065037579
+Austria,AUT,2024,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,55.6782850851641
+Austria,AUT,2023,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,58.4867595713944
+Austria,AUT,2022,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,61.4273121186873
+Austria,AUT,2021,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,55.9539450675875
+Austria,AUT,2020,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,51.6630899700616
+Austria,AUT,2019,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,55.8958073929339
+Austria,AUT,2018,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,55.7022394735073
+Austria,AUT,2017,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,54.3260296753968
+Austria,AUT,2016,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,52.6634020833052
+Austria,AUT,2015,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,53.3960122723239
+Austria,AUT,2014,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,53.8561570961341
+Belgium,BEL,2024,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,79.2730864114732
+Belgium,BEL,2023,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,82.7431955739295
+Belgium,BEL,2022,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,94.4213446744405
+Belgium,BEL,2021,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,89.6253551052155
+Belgium,BEL,2020,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,79.1968705613294
+Belgium,BEL,2019,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,82.9674275396401
+Belgium,BEL,2018,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,83.4830567161373
+Belgium,BEL,2017,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,83.4444050525116
+Belgium,BEL,2016,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,79.6181317071952
+Belgium,BEL,2015,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,77.8777392199991
+Belgium,BEL,2014,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,79.3965205800202
+Switzerland,CHE,2024,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,72.1589447667905
+Switzerland,CHE,2023,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,73.3331587674762
+Switzerland,CHE,2022,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,76.1397677689787
+Switzerland,CHE,2021,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,71.1192329157335
+Switzerland,CHE,2020,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,64.0955571587348
+Switzerland,CHE,2019,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,66.9653936798419
+Switzerland,CHE,2018,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,67.4781861031999
+Switzerland,CHE,2017,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,66.3484902889967
+Switzerland,CHE,2016,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,66.817725925772
+Switzerland,CHE,2015,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,63.8289557538988
+Switzerland,CHE,2014,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,65.3372701216929
+Germany,DEU,2024,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,41.4340593720908
+Germany,DEU,2023,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,42.9672624196847
+Germany,DEU,2022,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,45.6284043425185
+Germany,DEU,2021,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,42.5198379291429
+Germany,DEU,2020,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,39.1198068808828
+Germany,DEU,2019,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,42.3402444816356
+Germany,DEU,2018,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,42.4968914074717
+Germany,DEU,2017,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,42.2029575981591
+Germany,DEU,2016,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,41.6355419518592
+Germany,DEU,2015,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,42.5853976151835
+Germany,DEU,2014,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,41.6936675523627
+Denmark,DNK,2024,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,71.0020132043046
+Denmark,DNK,2023,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,69.3143620591443
+Denmark,DNK,2022,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,70.7552148776405
+Denmark,DNK,2021,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,59.2073478715957
+Denmark,DNK,2020,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,55.0368973244514
+Denmark,DNK,2019,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,58.9506079167167
+Denmark,DNK,2018,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,56.9833683807386
+Denmark,DNK,2017,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,55.3459515613736
+Denmark,DNK,2016,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,53.7439528985173
+Denmark,DNK,2015,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,55.8143215733858
+Denmark,DNK,2014,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,54.8334037514843
+Spain,ESP,2024,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,37.0558792721708
+Spain,ESP,2023,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,37.8166476493913
+Spain,ESP,2022,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,39.6716824276836
+Spain,ESP,2021,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,33.7570843255301
+Spain,ESP,2020,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,30.4810248544563
+Spain,ESP,2019,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,34.6755629292261
+Spain,ESP,2018,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,34.874813986254
+Spain,ESP,2017,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,34.9003952055684
+Spain,ESP,2016,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,33.5770329849408
+Spain,ESP,2015,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,33.2986849561039
+Spain,ESP,2014,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,33.2193399291014
+Finland,FIN,2024,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,41.9077919866069
+Finland,FIN,2023,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,42.7930569401278
+Finland,FIN,2022,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,46.2847802806846
+Finland,FIN,2021,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,39.9217732469328
+Finland,FIN,2020,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,36.2143434283611
+Finland,FIN,2019,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,40.6183181143561
+Finland,FIN,2018,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,39.1492205860158
+Finland,FIN,2017,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,38.1663150961701
+Finland,FIN,2016,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,35.3333302428645
+Finland,FIN,2015,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,35.7815711349623
+Finland,FIN,2014,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,36.8060042262758
+France,FRA,2024,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,33.8897542343832
+France,FRA,2023,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,34.4562568778842
+France,FRA,2022,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,36.6160484268785
+France,FRA,2021,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,31.2880499332105
+France,FRA,2020,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,28.5572228192655
+France,FRA,2019,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,32.8895593910847
+France,FRA,2018,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,32.9179818922164
+France,FRA,2017,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,32.311834044929
+France,FRA,2016,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,31.498210070063
+France,FRA,2015,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,31.6934947262689
+France,FRA,2014,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,30.741812901515
+United Kingdom,GBR,2024,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,30.9841588401688
+United Kingdom,GBR,2023,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,31.9122697629938
+United Kingdom,GBR,2022,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,34.0619283837069
+United Kingdom,GBR,2021,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,29.2894071087705
+United Kingdom,GBR,2020,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,29.9486520576829
+United Kingdom,GBR,2019,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,31.9028602803155
+United Kingdom,GBR,2018,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,31.854534000688
+United Kingdom,GBR,2017,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,30.9738310965649
+United Kingdom,GBR,2016,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,29.0615561502528
+United Kingdom,GBR,2015,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,27.8790736176463
+United Kingdom,GBR,2014,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,28.5320090066163
+Ireland,IRL,2024,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,143.984601661031
+Ireland,IRL,2023,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,136.52636667411
+Ireland,IRL,2022,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,139.505980538698
+Ireland,IRL,2021,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,136.397670222851
+Ireland,IRL,2020,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,139.811889906845
+Ireland,IRL,2019,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,131.224509342169
+Ireland,IRL,2018,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,125.968715436882
+Ireland,IRL,2017,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,128.496270792904
+Ireland,IRL,2016,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,129.178433843871
+Ireland,IRL,2015,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,126.687521960845
+Ireland,IRL,2014,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,115.097265448513
+Italy,ITA,2024,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,32.505041554007
+Italy,ITA,2023,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,33.3315893476608
+Italy,ITA,2022,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,35.0991400412578
+Italy,ITA,2021,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,31.1716088630092
+Italy,ITA,2020,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,28.7258551870199
+Italy,ITA,2019,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,30.9498739181942
+Italy,ITA,2018,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,30.8135072735991
+Italy,ITA,2017,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,30.1398859152774
+Italy,ITA,2016,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,28.7987488919157
+Italy,ITA,2015,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,29.144111052532
+Italy,ITA,2014,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,28.6224027363532
+Netherlands,NLD,2024,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,82.4303604853273
+Netherlands,NLD,2023,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,87.4860612893795
+Netherlands,NLD,2022,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,96.4436215813729
+Netherlands,NLD,2021,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,86.4500028041052
+Netherlands,NLD,2020,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,81.2415259478997
+Netherlands,NLD,2019,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,85.3209394926528
+Netherlands,NLD,2018,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,87.0564594492635
+Netherlands,NLD,2017,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,85.1795472131327
+Netherlands,NLD,2016,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,80.9095011629118
+Netherlands,NLD,2015,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,83.9918475345943
+Netherlands,NLD,2014,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,81.3822615368973
+Norway,NOR,2024,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,47.4917090116126
+Norway,NOR,2023,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,47.9120990269837
+Norway,NOR,2022,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,55.4998207714937
+Norway,NOR,2021,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,43.0363019206366
+Norway,NOR,2020,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,32.2103377797679
+Norway,NOR,2019,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,36.640925320627
+Norway,NOR,2018,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,38.2210272883516
+Norway,NOR,2017,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,36.7322649944946
+Norway,NOR,2016,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,35.9381714261875
+Norway,NOR,2015,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,38.5751887349717
+Norway,NOR,2014,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,39.7276720425482
+Poland,POL,2024,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,52.1798133919011
+Poland,POL,2023,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,57.8812710195434
+Poland,POL,2022,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,62.3525162455456
+Poland,POL,2021,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,57.0379760723016
+Poland,POL,2020,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,52.4338855199248
+Poland,POL,2019,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,52.6128934811742
+Poland,POL,2018,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,52.232575443975
+Poland,POL,2017,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,51.6925275786294
+Poland,POL,2016,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,49.906428862355
+Poland,POL,2015,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,47.1616367257527
+Poland,POL,2014,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,46.2206720325579
+Portugal,PRT,2024,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,45.771725043315
+Portugal,PRT,2023,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,47.1554769314882
+Portugal,PRT,2022,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,49.4816822004506
+Portugal,PRT,2021,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,41.5484271843512
+Portugal,PRT,2020,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,37.2560151344529
+Portugal,PRT,2019,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,43.6531259432991
+Portugal,PRT,2018,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,43.677580570852
+Portugal,PRT,2017,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,42.9426786480198
+Portugal,PRT,2016,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,40.3550889260564
+Portugal,PRT,2015,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,40.6876664090066
+Portugal,PRT,2014,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,40.1850905816292
+Sweden,SWE,2024,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,54.3095809724471
+Sweden,SWE,2023,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,55.1958779701806
+Sweden,SWE,2022,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,54.3120633586152
+Sweden,SWE,2021,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,47.4842370278491
+Sweden,SWE,2020,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,44.2873771533388
+Sweden,SWE,2019,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,48.2886583812982
+Sweden,SWE,2018,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,45.9408514773526
+Sweden,SWE,2017,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,43.9177471861903
+Sweden,SWE,2016,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,42.9375471367813
+Sweden,SWE,2015,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,43.7114624281719
+Sweden,SWE,2014,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,43.4587323957165
+Austria,AUT,2024,GDP per capita (current US$),NY.GDP.PCAP.CD,58268.8787651601
+Austria,AUT,2023,GDP per capita (current US$),NY.GDP.PCAP.CD,56579.504175468
+Austria,AUT,2022,GDP per capita (current US$),NY.GDP.PCAP.CD,52336.7725223758
+Austria,AUT,2021,GDP per capita (current US$),NY.GDP.PCAP.CD,53648.6437976214
+Austria,AUT,2020,GDP per capita (current US$),NY.GDP.PCAP.CD,48716.4098900349
+Austria,AUT,2019,GDP per capita (current US$),NY.GDP.PCAP.CD,49885.9947355204
+Austria,AUT,2018,GDP per capita (current US$),NY.GDP.PCAP.CD,51194.0749841299
+Austria,AUT,2017,GDP per capita (current US$),NY.GDP.PCAP.CD,47163.7425775142
+Austria,AUT,2016,GDP per capita (current US$),NY.GDP.PCAP.CD,45061.4993920192
+Austria,AUT,2015,GDP per capita (current US$),NY.GDP.PCAP.CD,43915.228020857
+Austria,AUT,2014,GDP per capita (current US$),NY.GDP.PCAP.CD,51314.9722616322
+Belgium,BEL,2024,GDP per capita (current US$),NY.GDP.PCAP.CD,56614.5679499036
+Belgium,BEL,2023,GDP per capita (current US$),NY.GDP.PCAP.CD,55291.4754541329
+Belgium,BEL,2022,GDP per capita (current US$),NY.GDP.PCAP.CD,50605.7496677086
+Belgium,BEL,2021,GDP per capita (current US$),NY.GDP.PCAP.CD,51658.238294958
+Belgium,BEL,2020,GDP per capita (current US$),NY.GDP.PCAP.CD,45906.2875805246
+Belgium,BEL,2019,GDP per capita (current US$),NY.GDP.PCAP.CD,46716.6227467964
+Belgium,BEL,2018,GDP per capita (current US$),NY.GDP.PCAP.CD,47487.2100392561
+Belgium,BEL,2017,GDP per capita (current US$),NY.GDP.PCAP.CD,44035.3239358548
+Belgium,BEL,2016,GDP per capita (current US$),NY.GDP.PCAP.CD,41854.5498296444
+Belgium,BEL,2015,GDP per capita (current US$),NY.GDP.PCAP.CD,40893.804537772
+Belgium,BEL,2014,GDP per capita (current US$),NY.GDP.PCAP.CD,47995.7786961339
+Switzerland,CHE,2024,GDP per capita (current US$),NY.GDP.PCAP.CD,103998.186685604
+Switzerland,CHE,2023,GDP per capita (current US$),NY.GDP.PCAP.CD,100623.549627296
+Switzerland,CHE,2022,GDP per capita (current US$),NY.GDP.PCAP.CD,94394.5106803525
+Switzerland,CHE,2021,GDP per capita (current US$),NY.GDP.PCAP.CD,93664.7736696111
+Switzerland,CHE,2020,GDP per capita (current US$),NY.GDP.PCAP.CD,85897.7843338323
+Switzerland,CHE,2019,GDP per capita (current US$),NY.GDP.PCAP.CD,84121.9310304414
+Switzerland,CHE,2018,GDP per capita (current US$),NY.GDP.PCAP.CD,85217.3691512274
+Switzerland,CHE,2017,GDP per capita (current US$),NY.GDP.PCAP.CD,82254.3769269767
+Switzerland,CHE,2016,GDP per capita (current US$),NY.GDP.PCAP.CD,82153.0745447889
+Switzerland,CHE,2015,GDP per capita (current US$),NY.GDP.PCAP.CD,83806.4476003837
+Switzerland,CHE,2014,GDP per capita (current US$),NY.GDP.PCAP.CD,88724.9909402638
+Germany,DEU,2024,GDP per capita (current US$),NY.GDP.PCAP.CD,56103.7323182554
+Germany,DEU,2023,GDP per capita (current US$),NY.GDP.PCAP.CD,54776.7668235491
+Germany,DEU,2022,GDP per capita (current US$),NY.GDP.PCAP.CD,50506.5179638543
+Germany,DEU,2021,GDP per capita (current US$),NY.GDP.PCAP.CD,52349.2459994422
+Germany,DEU,2020,GDP per capita (current US$),NY.GDP.PCAP.CD,47394.8734504469
+Germany,DEU,2019,GDP per capita (current US$),NY.GDP.PCAP.CD,47656.199739747
+Germany,DEU,2018,GDP per capita (current US$),NY.GDP.PCAP.CD,48916.1686612154
+Germany,DEU,2017,GDP per capita (current US$),NY.GDP.PCAP.CD,45553.9341495339
+Germany,DEU,2016,GDP per capita (current US$),NY.GDP.PCAP.CD,42948.9381932694
+Germany,DEU,2015,GDP per capita (current US$),NY.GDP.PCAP.CD,41929.7549110722
+Germany,DEU,2014,GDP per capita (current US$),NY.GDP.PCAP.CD,48959.5991203133
+Denmark,DNK,2024,GDP per capita (current US$),NY.GDP.PCAP.CD,71026.4832271897
+Denmark,DNK,2023,GDP per capita (current US$),NY.GDP.PCAP.CD,68043.5466971243
+Denmark,DNK,2022,GDP per capita (current US$),NY.GDP.PCAP.CD,67781.0940939514
+Denmark,DNK,2021,GDP per capita (current US$),NY.GDP.PCAP.CD,69340.7334922138
+Denmark,DNK,2020,GDP per capita (current US$),NY.GDP.PCAP.CD,60985.4885601514
+Denmark,DNK,2019,GDP per capita (current US$),NY.GDP.PCAP.CD,59404.2663247723
+Denmark,DNK,2018,GDP per capita (current US$),NY.GDP.PCAP.CD,61324.7665045565
+Denmark,DNK,2017,GDP per capita (current US$),NY.GDP.PCAP.CD,57521.5514992225
+Denmark,DNK,2016,GDP per capita (current US$),NY.GDP.PCAP.CD,54500.9260410217
+Denmark,DNK,2015,GDP per capita (current US$),NY.GDP.PCAP.CD,53094.0133607574
+Denmark,DNK,2014,GDP per capita (current US$),NY.GDP.PCAP.CD,62520.4509747011
+Spain,ESP,2024,GDP per capita (current US$),NY.GDP.PCAP.CD,35326.7683069278
+Spain,ESP,2023,GDP per capita (current US$),NY.GDP.PCAP.CD,33493.2225409111
+Spain,ESP,2022,GDP per capita (current US$),NY.GDP.PCAP.CD,30319.4987196616
+Spain,ESP,2021,GDP per capita (current US$),NY.GDP.PCAP.CD,30799.4775937775
+Spain,ESP,2020,GDP per capita (current US$),NY.GDP.PCAP.CD,27233.9426461608
+Spain,ESP,2019,GDP per capita (current US$),NY.GDP.PCAP.CD,29786.5245689007
+Spain,ESP,2018,GDP per capita (current US$),NY.GDP.PCAP.CD,30602.4212881113
+Spain,ESP,2017,GDP per capita (current US$),NY.GDP.PCAP.CD,28381.3425596906
+Spain,ESP,2016,GDP per capita (current US$),NY.GDP.PCAP.CD,26755.6061149398
+Spain,ESP,2015,GDP per capita (current US$),NY.GDP.PCAP.CD,25982.4416197775
+Spain,ESP,2014,GDP per capita (current US$),NY.GDP.PCAP.CD,29707.765509467
+Finland,FIN,2024,GDP per capita (current US$),NY.GDP.PCAP.CD,53149.7671934051
+Finland,FIN,2023,GDP per capita (current US$),NY.GDP.PCAP.CD,52834.2916752703
+Finland,FIN,2022,GDP per capita (current US$),NY.GDP.PCAP.CD,50440.560224974
+Finland,FIN,2021,GDP per capita (current US$),NY.GDP.PCAP.CD,53099.1351400148
+Finland,FIN,2020,GDP per capita (current US$),NY.GDP.PCAP.CD,48828.6846862799
+Finland,FIN,2019,GDP per capita (current US$),NY.GDP.PCAP.CD,48358.1807773701
+Finland,FIN,2018,GDP per capita (current US$),NY.GDP.PCAP.CD,49654.2497035329
+Finland,FIN,2017,GDP per capita (current US$),NY.GDP.PCAP.CD,46085.0174739036
+Finland,FIN,2016,GDP per capita (current US$),NY.GDP.PCAP.CD,43451.2562442158
+Finland,FIN,2015,GDP per capita (current US$),NY.GDP.PCAP.CD,42560.3456767103
+Finland,FIN,2014,GDP per capita (current US$),NY.GDP.PCAP.CD,50073.7760815871
+France,FRA,2024,GDP per capita (current US$),NY.GDP.PCAP.CD,46103.0840855884
+France,FRA,2023,GDP per capita (current US$),NY.GDP.PCAP.CD,44700.1384177544
+France,FRA,2022,GDP per capita (current US$),NY.GDP.PCAP.CD,40988.6396406579
+France,FRA,2021,GDP per capita (current US$),NY.GDP.PCAP.CD,43725.0999521245
+France,FRA,2020,GDP per capita (current US$),NY.GDP.PCAP.CD,39169.8606000707
+France,FRA,2019,GDP per capita (current US$),NY.GDP.PCAP.CD,40408.2848574751
+France,FRA,2018,GDP per capita (current US$),NY.GDP.PCAP.CD,41418.1766484844
+France,FRA,2017,GDP per capita (current US$),NY.GDP.PCAP.CD,38687.1626407164
+France,FRA,2016,GDP per capita (current US$),NY.GDP.PCAP.CD,37024.2157133669
+France,FRA,2015,GDP per capita (current US$),NY.GDP.PCAP.CD,36702.4323733379
+France,FRA,2014,GDP per capita (current US$),NY.GDP.PCAP.CD,43148.0459288416
+United Kingdom,GBR,2024,GDP per capita (current US$),NY.GDP.PCAP.CD,53246.3676145108
+United Kingdom,GBR,2023,GDP per capita (current US$),NY.GDP.PCAP.CD,49944.4702124201
+United Kingdom,GBR,2022,GDP per capita (current US$),NY.GDP.PCAP.CD,47057.043229179
+United Kingdom,GBR,2021,GDP per capita (current US$),NY.GDP.PCAP.CD,47691.3768799404
+United Kingdom,GBR,2020,GDP per capita (current US$),NY.GDP.PCAP.CD,40812.6794663879
+United Kingdom,GBR,2019,GDP per capita (current US$),NY.GDP.PCAP.CD,43158.7411267323
+United Kingdom,GBR,2018,GDP per capita (current US$),NY.GDP.PCAP.CD,43702.9976303165
+United Kingdom,GBR,2017,GDP per capita (current US$),NY.GDP.PCAP.CD,40916.8115070354
+United Kingdom,GBR,2016,GDP per capita (current US$),NY.GDP.PCAP.CD,41257.9085545556
+United Kingdom,GBR,2015,GDP per capita (current US$),NY.GDP.PCAP.CD,45255.3449216209
+United Kingdom,GBR,2014,GDP per capita (current US$),NY.GDP.PCAP.CD,47746.2421759562
+Ireland,IRL,2024,GDP per capita (current US$),NY.GDP.PCAP.CD,112894.953240805
+Ireland,IRL,2023,GDP per capita (current US$),NY.GDP.PCAP.CD,106818.917130804
+Ireland,IRL,2022,GDP per capita (current US$),NY.GDP.PCAP.CD,105190.685952731
+Ireland,IRL,2021,GDP per capita (current US$),NY.GDP.PCAP.CD,103783.446284479
+Ireland,IRL,2020,GDP per capita (current US$),NY.GDP.PCAP.CD,86514.0706108754
+Ireland,IRL,2019,GDP per capita (current US$),NY.GDP.PCAP.CD,81827.6688873996
+Ireland,IRL,2018,GDP per capita (current US$),NY.GDP.PCAP.CD,80804.1123164826
+Ireland,IRL,2017,GDP per capita (current US$),NY.GDP.PCAP.CD,72161.4047531385
+Ireland,IRL,2016,GDP per capita (current US$),NY.GDP.PCAP.CD,64129.5571542383
+Ireland,IRL,2015,GDP per capita (current US$),NY.GDP.PCAP.CD,64250.1385181257
+Ireland,IRL,2014,GDP per capita (current US$),NY.GDP.PCAP.CD,57214.5379785709
+Italy,ITA,2024,GDP per capita (current US$),NY.GDP.PCAP.CD,40385.3413957669
+Italy,ITA,2023,GDP per capita (current US$),NY.GDP.PCAP.CD,39277.0838783918
+Italy,ITA,2022,GDP per capita (current US$),NY.GDP.PCAP.CD,35653.9042103495
+Italy,ITA,2021,GDP per capita (current US$),NY.GDP.PCAP.CD,36852.5425414951
+Italy,ITA,2020,GDP per capita (current US$),NY.GDP.PCAP.CD,32091.4866621366
+Italy,ITA,2019,GDP per capita (current US$),NY.GDP.PCAP.CD,33812.788724868
+Italy,ITA,2018,GDP per capita (current US$),NY.GDP.PCAP.CD,34904.1081923834
+Italy,ITA,2017,GDP per capita (current US$),NY.GDP.PCAP.CD,32844.115660604
+Italy,ITA,2016,GDP per capita (current US$),NY.GDP.PCAP.CD,31391.5692898108
+Italy,ITA,2015,GDP per capita (current US$),NY.GDP.PCAP.CD,30639.8829751432
+Italy,ITA,2014,GDP per capita (current US$),NY.GDP.PCAP.CD,36028.3494022349
+Netherlands,NLD,2024,GDP per capita (current US$),NY.GDP.PCAP.CD,67520.4218956281
+Netherlands,NLD,2023,GDP per capita (current US$),NY.GDP.PCAP.CD,63515.6030780019
+Netherlands,NLD,2022,GDP per capita (current US$),NY.GDP.PCAP.CD,59123.318556487
+Netherlands,NLD,2021,GDP per capita (current US$),NY.GDP.PCAP.CD,60141.9880911492
+Netherlands,NLD,2020,GDP per capita (current US$),NY.GDP.PCAP.CD,53467.9277413737
+Netherlands,NLD,2019,GDP per capita (current US$),NY.GDP.PCAP.CD,53554.9007491475
+Netherlands,NLD,2018,GDP per capita (current US$),NY.GDP.PCAP.CD,53955.0770024266
+Netherlands,NLD,2017,GDP per capita (current US$),NY.GDP.PCAP.CD,49513.6817346384
+Netherlands,NLD,2016,GDP per capita (current US$),NY.GDP.PCAP.CD,46808.5291492503
+Netherlands,NLD,2015,GDP per capita (current US$),NY.GDP.PCAP.CD,45793.8135434697
+Netherlands,NLD,2014,GDP per capita (current US$),NY.GDP.PCAP.CD,53457.2234864322
+Norway,NOR,2024,GDP per capita (current US$),NY.GDP.PCAP.CD,86785.4334489176
+Norway,NOR,2023,GDP per capita (current US$),NY.GDP.PCAP.CD,87497.2179649556
+Norway,NOR,2022,GDP per capita (current US$),NY.GDP.PCAP.CD,109269.520580298
+Norway,NOR,2021,GDP per capita (current US$),NY.GDP.PCAP.CD,93072.8925119571
+Norway,NOR,2020,GDP per capita (current US$),NY.GDP.PCAP.CD,68340.0181033702
+Norway,NOR,2019,GDP per capita (current US$),NY.GDP.PCAP.CD,76430.5889473338
+Norway,NOR,2018,GDP per capita (current US$),NY.GDP.PCAP.CD,82792.8427113304
+Norway,NOR,2017,GDP per capita (current US$),NY.GDP.PCAP.CD,76131.8384032764
+Norway,NOR,2016,GDP per capita (current US$),NY.GDP.PCAP.CD,70867.3609970749
+Norway,NOR,2015,GDP per capita (current US$),NY.GDP.PCAP.CD,74809.9658049898
+Norway,NOR,2014,GDP per capita (current US$),NY.GDP.PCAP.CD,97666.6951838749
+Poland,POL,2024,GDP per capita (current US$),NY.GDP.PCAP.CD,25103.565661423
+Poland,POL,2023,GDP per capita (current US$),NY.GDP.PCAP.CD,22145.2660647429
+Poland,POL,2022,GDP per capita (current US$),NY.GDP.PCAP.CD,18891.2121169279
+Poland,POL,2021,GDP per capita (current US$),NY.GDP.PCAP.CD,18635.5104895754
+Poland,POL,2020,GDP per capita (current US$),NY.GDP.PCAP.CD,16150.9304813473
+Poland,POL,2019,GDP per capita (current US$),NY.GDP.PCAP.CD,15874.5220531254
+Poland,POL,2018,GDP per capita (current US$),NY.GDP.PCAP.CD,15658.2120316794
+Poland,POL,2017,GDP per capita (current US$),NY.GDP.PCAP.CD,13913.3402919927
+Poland,POL,2016,GDP per capita (current US$),NY.GDP.PCAP.CD,12464.0110508476
+Poland,POL,2015,GDP per capita (current US$),NY.GDP.PCAP.CD,12637.5220324406
+Poland,POL,2014,GDP per capita (current US$),NY.GDP.PCAP.CD,14262.2841914116
+Portugal,PRT,2024,GDP per capita (current US$),NY.GDP.PCAP.CD,29292.242104753
+Portugal,PRT,2023,GDP per capita (current US$),NY.GDP.PCAP.CD,27634.6183139773
+Portugal,PRT,2022,GDP per capita (current US$),NY.GDP.PCAP.CD,24620.5197587181
+Portugal,PRT,2021,GDP per capita (current US$),NY.GDP.PCAP.CD,24711.4510062111
+Portugal,PRT,2020,GDP per capita (current US$),NY.GDP.PCAP.CD,22299.4044062173
+Portugal,PRT,2019,GDP per capita (current US$),NY.GDP.PCAP.CD,23343.3628970034
+Portugal,PRT,2018,GDP per capita (current US$),NY.GDP.PCAP.CD,23541.1401075289
+Portugal,PRT,2017,GDP per capita (current US$),NY.GDP.PCAP.CD,21442.3842768879
+Portugal,PRT,2016,GDP per capita (current US$),NY.GDP.PCAP.CD,19980.2808866516
+Portugal,PRT,2015,GDP per capita (current US$),NY.GDP.PCAP.CD,19215.7813014347
+Portugal,PRT,2014,GDP per capita (current US$),NY.GDP.PCAP.CD,22120.6850127107
+Sweden,SWE,2024,GDP per capita (current US$),NY.GDP.PCAP.CD,57117.4877440616
+Sweden,SWE,2023,GDP per capita (current US$),NY.GDP.PCAP.CD,54950.2834725622
+Sweden,SWE,2022,GDP per capita (current US$),NY.GDP.PCAP.CD,54836.8907235124
+Sweden,SWE,2021,GDP per capita (current US$),NY.GDP.PCAP.CD,60647.5416365347
+Sweden,SWE,2020,GDP per capita (current US$),NY.GDP.PCAP.CD,52568.5726980146
+Sweden,SWE,2019,GDP per capita (current US$),NY.GDP.PCAP.CD,51648.9892820514
+Sweden,SWE,2018,GDP per capita (current US$),NY.GDP.PCAP.CD,54018.4554391861
+Sweden,SWE,2017,GDP per capita (current US$),NY.GDP.PCAP.CD,53210.2233318965
+Sweden,SWE,2016,GDP per capita (current US$),NY.GDP.PCAP.CD,51703.5088332851
+Sweden,SWE,2015,GDP per capita (current US$),NY.GDP.PCAP.CD,51188.1652120493
+Sweden,SWE,2014,GDP per capita (current US$),NY.GDP.PCAP.CD,59583.4584491714
+Austria,AUT,2024,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,5.2
+Austria,AUT,2023,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,5.264
+Austria,AUT,2022,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,4.992
+Austria,AUT,2021,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,6.459
+Austria,AUT,2020,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,5.201
+Austria,AUT,2019,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,4.56
+Austria,AUT,2018,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,4.933
+Austria,AUT,2017,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,5.561
+Austria,AUT,2016,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,6.064
+Austria,AUT,2015,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,5.802
+Austria,AUT,2014,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,5.674
+Belgium,BEL,2024,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,5.7
+Belgium,BEL,2023,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,5.547
+Belgium,BEL,2022,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,5.57
+Belgium,BEL,2021,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,6.248
+Belgium,BEL,2020,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,5.545
+Belgium,BEL,2019,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,5.364
+Belgium,BEL,2018,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,5.941
+Belgium,BEL,2017,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,7.09
+Belgium,BEL,2016,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,7.83
+Belgium,BEL,2015,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,8.482
+Belgium,BEL,2014,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,8.523
+Switzerland,CHE,2024,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,4.343
+Switzerland,CHE,2023,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,4.043
+Switzerland,CHE,2022,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,4.122
+Switzerland,CHE,2021,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,5.013
+Switzerland,CHE,2020,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,4.817
+Switzerland,CHE,2019,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,4.394
+Switzerland,CHE,2018,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,4.713
+Switzerland,CHE,2017,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,4.797
+Switzerland,CHE,2016,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,4.918
+Switzerland,CHE,2015,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,4.801
+Switzerland,CHE,2014,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,4.826
+Germany,DEU,2024,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,3.4
+Germany,DEU,2023,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,3.071
+Germany,DEU,2022,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,3.137
+Germany,DEU,2021,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,3.594
+Germany,DEU,2020,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,3.881
+Germany,DEU,2019,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,3.163
+Germany,DEU,2018,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,3.384
+Germany,DEU,2017,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,3.781
+Germany,DEU,2016,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,4.104
+Germany,DEU,2015,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,4.612
+Germany,DEU,2014,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,4.979
+Denmark,DNK,2024,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,5.358
+Denmark,DNK,2023,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,5.094
+Denmark,DNK,2022,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,4.434
+Denmark,DNK,2021,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,5.065
+Denmark,DNK,2020,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,5.644
+Denmark,DNK,2019,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,5.018
+Denmark,DNK,2018,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,5.131
+Denmark,DNK,2017,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,5.833
+Denmark,DNK,2016,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,5.989
+Denmark,DNK,2015,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,6.278
+Denmark,DNK,2014,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,6.925
+Spain,ESP,2024,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,11.4
+Spain,ESP,2023,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,12.179
+Spain,ESP,2022,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,13.033
+Spain,ESP,2021,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,14.914
+Spain,ESP,2020,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,15.532
+Spain,ESP,2019,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,14.104
+Spain,ESP,2018,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,15.255
+Spain,ESP,2017,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,17.224
+Spain,ESP,2016,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,19.635
+Spain,ESP,2015,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,22.057
+Spain,ESP,2014,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,24.441
+Finland,FIN,2024,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,8.4
+Finland,FIN,2023,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,7.149
+Finland,FIN,2022,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,6.719
+Finland,FIN,2021,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,7.617
+Finland,FIN,2020,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,7.759
+Finland,FIN,2019,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,6.695
+Finland,FIN,2018,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,7.361
+Finland,FIN,2017,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,8.64
+Finland,FIN,2016,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,8.818
+Finland,FIN,2015,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,9.376
+Finland,FIN,2014,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,8.663
+France,FRA,2024,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,7.4
+France,FRA,2023,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,7.335
+France,FRA,2022,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,7.303
+France,FRA,2021,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,7.871
+France,FRA,2020,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,8.009
+France,FRA,2019,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,8.415
+France,FRA,2018,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,9.018
+France,FRA,2017,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,9.409
+France,FRA,2016,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,10.057
+France,FRA,2015,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,10.354
+France,FRA,2014,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,10.273
+United Kingdom,GBR,2024,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,4.361
+United Kingdom,GBR,2023,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,4.025
+United Kingdom,GBR,2022,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,3.768
+United Kingdom,GBR,2021,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,4.864
+United Kingdom,GBR,2020,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,4.472
+United Kingdom,GBR,2019,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,3.657
+United Kingdom,GBR,2018,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,4.145
+United Kingdom,GBR,2017,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,4.501
+United Kingdom,GBR,2016,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,4.909
+United Kingdom,GBR,2015,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,5.552
+United Kingdom,GBR,2014,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,6.398
+Ireland,IRL,2024,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,4.3
+Ireland,IRL,2023,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,4.243
+Ireland,IRL,2022,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,4.465
+Ireland,IRL,2021,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,6.357
+Ireland,IRL,2020,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,5.623
+Ireland,IRL,2019,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,4.95
+Ireland,IRL,2018,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,5.741
+Ireland,IRL,2017,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,6.713
+Ireland,IRL,2016,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,8.374
+Ireland,IRL,2015,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,9.908
+Ireland,IRL,2014,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,11.858
+Italy,ITA,2024,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,6.5
+Italy,ITA,2023,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,7.627
+Italy,ITA,2022,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,8.069
+Italy,ITA,2021,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,9.497
+Italy,ITA,2020,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,9.192
+Italy,ITA,2019,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,9.884
+Italy,ITA,2018,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,10.538
+Italy,ITA,2017,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,11.211
+Italy,ITA,2016,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,11.688
+Italy,ITA,2015,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,11.896
+Italy,ITA,2014,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,12.683
+Netherlands,NLD,2024,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,3.7
+Netherlands,NLD,2023,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,3.535
+Netherlands,NLD,2022,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,3.526
+Netherlands,NLD,2021,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,4.209
+Netherlands,NLD,2020,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,3.82
+Netherlands,NLD,2019,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,3.379
+Netherlands,NLD,2018,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,3.832
+Netherlands,NLD,2017,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,4.837
+Netherlands,NLD,2016,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,6.007
+Netherlands,NLD,2015,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,6.872
+Netherlands,NLD,2014,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,7.419
+Norway,NOR,2024,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,4.0
+Norway,NOR,2023,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,3.574
+Norway,NOR,2022,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,3.231
+Norway,NOR,2021,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,4.359
+Norway,NOR,2020,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,4.424
+Norway,NOR,2019,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,3.684
+Norway,NOR,2018,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,3.801
+Norway,NOR,2017,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,4.164
+Norway,NOR,2016,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,4.68
+Norway,NOR,2015,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,4.296
+Norway,NOR,2014,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,3.486
+Poland,POL,2024,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,2.807
+Poland,POL,2023,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,2.743
+Poland,POL,2022,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,2.811
+Poland,POL,2021,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,3.268
+Poland,POL,2020,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,3.155
+Poland,POL,2019,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,3.267
+Poland,POL,2018,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,3.835
+Poland,POL,2017,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,4.867
+Poland,POL,2016,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,6.141
+Poland,POL,2015,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,7.475
+Poland,POL,2014,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,8.971
+Portugal,PRT,2024,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,6.5
+Portugal,PRT,2023,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,6.498
+Portugal,PRT,2022,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,6.138
+Portugal,PRT,2021,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,6.712
+Portugal,PRT,2020,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,6.85
+Portugal,PRT,2019,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,6.422
+Portugal,PRT,2018,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,6.966
+Portugal,PRT,2017,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,8.878
+Portugal,PRT,2016,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,11.058
+Portugal,PRT,2015,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,12.405
+Portugal,PRT,2014,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,13.88
+Sweden,SWE,2024,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,8.4
+Sweden,SWE,2023,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,7.611
+Sweden,SWE,2022,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,7.417
+Sweden,SWE,2021,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,8.803
+Sweden,SWE,2020,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,8.291
+Sweden,SWE,2019,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,6.833
+Sweden,SWE,2018,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,6.365
+Sweden,SWE,2017,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,6.718
+Sweden,SWE,2016,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,6.99
+Sweden,SWE,2015,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,7.432
+Sweden,SWE,2014,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,7.954
+Austria,AUT,2024,"Population, total",SP.POP.TOTL,9177982.0
+Austria,AUT,2023,"Population, total",SP.POP.TOTL,9131761.0
+Austria,AUT,2022,"Population, total",SP.POP.TOTL,9041851.0
+Austria,AUT,2021,"Population, total",SP.POP.TOTL,8955797.0
+Austria,AUT,2020,"Population, total",SP.POP.TOTL,8916864.0
+Austria,AUT,2019,"Population, total",SP.POP.TOTL,8879920.0
+Austria,AUT,2018,"Population, total",SP.POP.TOTL,8840521.0
+Austria,AUT,2017,"Population, total",SP.POP.TOTL,8797566.0
+Austria,AUT,2016,"Population, total",SP.POP.TOTL,8736668.0
+Austria,AUT,2015,"Population, total",SP.POP.TOTL,8642699.0
+Austria,AUT,2014,"Population, total",SP.POP.TOTL,8546356.0
+Belgium,BEL,2024,"Population, total",SP.POP.TOTL,11858610.0
+Belgium,BEL,2023,"Population, total",SP.POP.TOTL,11779946.0
+Belgium,BEL,2022,"Population, total",SP.POP.TOTL,11680210.0
+Belgium,BEL,2021,"Population, total",SP.POP.TOTL,11586195.0
+Belgium,BEL,2020,"Population, total",SP.POP.TOTL,11538604.0
+Belgium,BEL,2019,"Population, total",SP.POP.TOTL,11488980.0
+Belgium,BEL,2018,"Population, total",SP.POP.TOTL,11427054.0
+Belgium,BEL,2017,"Population, total",SP.POP.TOTL,11375158.0
+Belgium,BEL,2016,"Population, total",SP.POP.TOTL,11331422.0
+Belgium,BEL,2015,"Population, total",SP.POP.TOTL,11274196.0
+Belgium,BEL,2014,"Population, total",SP.POP.TOTL,11209057.0
+Switzerland,CHE,2024,"Population, total",SP.POP.TOTL,9005582.0
+Switzerland,CHE,2023,"Population, total",SP.POP.TOTL,8888822.0
+Switzerland,CHE,2022,"Population, total",SP.POP.TOTL,8777088.0
+Switzerland,CHE,2021,"Population, total",SP.POP.TOTL,8704546.0
+Switzerland,CHE,2020,"Population, total",SP.POP.TOTL,8638167.0
+Switzerland,CHE,2019,"Population, total",SP.POP.TOTL,8575280.0
+Switzerland,CHE,2018,"Population, total",SP.POP.TOTL,8514329.0
+Switzerland,CHE,2017,"Population, total",SP.POP.TOTL,8451840.0
+Switzerland,CHE,2016,"Population, total",SP.POP.TOTL,8373338.0
+Switzerland,CHE,2015,"Population, total",SP.POP.TOTL,8282396.0
+Switzerland,CHE,2014,"Population, total",SP.POP.TOTL,8188649.0
+Germany,DEU,2024,"Population, total",SP.POP.TOTL,83516593.0
+Germany,DEU,2023,"Population, total",SP.POP.TOTL,83287273.0
+Germany,DEU,2022,"Population, total",SP.POP.TOTL,83177813.0
+Germany,DEU,2021,"Population, total",SP.POP.TOTL,83196078.0
+Germany,DEU,2020,"Population, total",SP.POP.TOTL,83160871.0
+Germany,DEU,2019,"Population, total",SP.POP.TOTL,83092962.0
+Germany,DEU,2018,"Population, total",SP.POP.TOTL,82905782.0
+Germany,DEU,2017,"Population, total",SP.POP.TOTL,82657002.0
+Germany,DEU,2016,"Population, total",SP.POP.TOTL,82348669.0
+Germany,DEU,2015,"Population, total",SP.POP.TOTL,81686611.0
+Germany,DEU,2014,"Population, total",SP.POP.TOTL,80982500.0
+Denmark,DNK,2024,"Population, total",SP.POP.TOTL,5976992.0
+Denmark,DNK,2023,"Population, total",SP.POP.TOTL,5946952.0
+Denmark,DNK,2022,"Population, total",SP.POP.TOTL,5903037.0
+Denmark,DNK,2021,"Population, total",SP.POP.TOTL,5856733.0
+Denmark,DNK,2020,"Population, total",SP.POP.TOTL,5831404.0
+Denmark,DNK,2019,"Population, total",SP.POP.TOTL,5814422.0
+Denmark,DNK,2018,"Population, total",SP.POP.TOTL,5793636.0
+Denmark,DNK,2017,"Population, total",SP.POP.TOTL,5764980.0
+Denmark,DNK,2016,"Population, total",SP.POP.TOTL,5728010.0
+Denmark,DNK,2015,"Population, total",SP.POP.TOTL,5683483.0
+Denmark,DNK,2014,"Population, total",SP.POP.TOTL,5643475.0
+Spain,ESP,2024,"Population, total",SP.POP.TOTL,48848840.0
+Spain,ESP,2023,"Population, total",SP.POP.TOTL,48352528.0
+Spain,ESP,2022,"Population, total",SP.POP.TOTL,47786102.0
+Spain,ESP,2021,"Population, total",SP.POP.TOTL,47443821.0
+Spain,ESP,2020,"Population, total",SP.POP.TOTL,47359424.0
+Spain,ESP,2019,"Population, total",SP.POP.TOTL,47118501.0
+Spain,ESP,2018,"Population, total",SP.POP.TOTL,46782011.0
+Spain,ESP,2017,"Population, total",SP.POP.TOTL,46571232.0
+Spain,ESP,2016,"Population, total",SP.POP.TOTL,46458139.0
+Spain,ESP,2015,"Population, total",SP.POP.TOTL,46422303.0
+Spain,ESP,2014,"Population, total",SP.POP.TOTL,46460733.0
+Finland,FIN,2024,"Population, total",SP.POP.TOTL,5619911.0
+Finland,FIN,2023,"Population, total",SP.POP.TOTL,5583911.0
+Finland,FIN,2022,"Population, total",SP.POP.TOTL,5556106.0
+Finland,FIN,2021,"Population, total",SP.POP.TOTL,5541017.0
+Finland,FIN,2020,"Population, total",SP.POP.TOTL,5529543.0
+Finland,FIN,2019,"Population, total",SP.POP.TOTL,5521606.0
+Finland,FIN,2018,"Population, total",SP.POP.TOTL,5515525.0
+Finland,FIN,2017,"Population, total",SP.POP.TOTL,5508214.0
+Finland,FIN,2016,"Population, total",SP.POP.TOTL,5495303.0
+Finland,FIN,2015,"Population, total",SP.POP.TOTL,5479531.0
+Finland,FIN,2014,"Population, total",SP.POP.TOTL,5461512.0
+France,FRA,2024,"Population, total",SP.POP.TOTL,68551653.0
+France,FRA,2023,"Population, total",SP.POP.TOTL,68372286.0
+France,FRA,2022,"Population, total",SP.POP.TOTL,68184457.0
+France,FRA,2021,"Population, total",SP.POP.TOTL,67842811.0
+France,FRA,2020,"Population, total",SP.POP.TOTL,67601110.0
+France,FRA,2019,"Population, total",SP.POP.TOTL,67382061.0
+France,FRA,2018,"Population, total",SP.POP.TOTL,67158348.0
+France,FRA,2017,"Population, total",SP.POP.TOTL,66918020.0
+France,FRA,2016,"Population, total",SP.POP.TOTL,66724104.0
+France,FRA,2015,"Population, total",SP.POP.TOTL,66548272.0
+France,FRA,2014,"Population, total",SP.POP.TOTL,66312067.0
+United Kingdom,GBR,2024,"Population, total",SP.POP.TOTL,69226000.0
+United Kingdom,GBR,2023,"Population, total",SP.POP.TOTL,68492000.0
+United Kingdom,GBR,2022,"Population, total",SP.POP.TOTL,67604000.0
+United Kingdom,GBR,2021,"Population, total",SP.POP.TOTL,66984000.0
+United Kingdom,GBR,2020,"Population, total",SP.POP.TOTL,66744000.0
+United Kingdom,GBR,2019,"Population, total",SP.POP.TOTL,66631000.0
+United Kingdom,GBR,2018,"Population, total",SP.POP.TOTL,66289000.0
+United Kingdom,GBR,2017,"Population, total",SP.POP.TOTL,65966000.0
+United Kingdom,GBR,2016,"Population, total",SP.POP.TOTL,65607000.0
+United Kingdom,GBR,2015,"Population, total",SP.POP.TOTL,65088000.0
+United Kingdom,GBR,2014,"Population, total",SP.POP.TOTL,64620000.0
+Ireland,IRL,2024,"Population, total",SP.POP.TOTL,5395790.0
+Ireland,IRL,2023,"Population, total",SP.POP.TOTL,5311538.0
+Ireland,IRL,2022,"Population, total",SP.POP.TOTL,5212836.0
+Ireland,IRL,2021,"Population, total",SP.POP.TOTL,5110585.0
+Ireland,IRL,2020,"Population, total",SP.POP.TOTL,5039747.0
+Ireland,IRL,2019,"Population, total",SP.POP.TOTL,4976456.0
+Ireland,IRL,2018,"Population, total",SP.POP.TOTL,4898022.0
+Ireland,IRL,2017,"Population, total",SP.POP.TOTL,4827445.0
+Ireland,IRL,2016,"Population, total",SP.POP.TOTL,4762722.0
+Ireland,IRL,2015,"Population, total",SP.POP.TOTL,4701957.0
+Ireland,IRL,2014,"Population, total",SP.POP.TOTL,4657740.0
+Italy,ITA,2024,"Population, total",SP.POP.TOTL,58952704.0
+Italy,ITA,2023,"Population, total",SP.POP.TOTL,58984216.0
+Italy,ITA,2022,"Population, total",SP.POP.TOTL,59013667.0
+Italy,ITA,2021,"Population, total",SP.POP.TOTL,59133173.0
+Italy,ITA,2020,"Population, total",SP.POP.TOTL,59438851.0
+Italy,ITA,2019,"Population, total",SP.POP.TOTL,59729081.0
+Italy,ITA,2018,"Population, total",SP.POP.TOTL,60148658.0
+Italy,ITA,2017,"Population, total",SP.POP.TOTL,60002252.0
+Italy,ITA,2016,"Population, total",SP.POP.TOTL,60115223.0
+Italy,ITA,2015,"Population, total",SP.POP.TOTL,60229605.0
+Italy,ITA,2014,"Population, total",SP.POP.TOTL,60320707.0
+Netherlands,NLD,2024,"Population, total",SP.POP.TOTL,17993485.0
+Netherlands,NLD,2023,"Population, total",SP.POP.TOTL,17877117.0
+Netherlands,NLD,2022,"Population, total",SP.POP.TOTL,17700982.0
+Netherlands,NLD,2021,"Population, total",SP.POP.TOTL,17533044.0
+Netherlands,NLD,2020,"Population, total",SP.POP.TOTL,17441500.0
+Netherlands,NLD,2019,"Population, total",SP.POP.TOTL,17344874.0
+Netherlands,NLD,2018,"Population, total",SP.POP.TOTL,17231624.0
+Netherlands,NLD,2017,"Population, total",SP.POP.TOTL,17131296.0
+Netherlands,NLD,2016,"Population, total",SP.POP.TOTL,17030314.0
+Netherlands,NLD,2015,"Population, total",SP.POP.TOTL,16939923.0
+Netherlands,NLD,2014,"Population, total",SP.POP.TOTL,16865008.0
+Norway,NOR,2024,"Population, total",SP.POP.TOTL,5572279.0
+Norway,NOR,2023,"Population, total",SP.POP.TOTL,5519601.0
+Norway,NOR,2022,"Population, total",SP.POP.TOTL,5457127.0
+Norway,NOR,2021,"Population, total",SP.POP.TOTL,5408320.0
+Norway,NOR,2020,"Population, total",SP.POP.TOTL,5379475.0
+Norway,NOR,2019,"Population, total",SP.POP.TOTL,5347896.0
+Norway,NOR,2018,"Population, total",SP.POP.TOTL,5311916.0
+Norway,NOR,2017,"Population, total",SP.POP.TOTL,5276968.0
+Norway,NOR,2016,"Population, total",SP.POP.TOTL,5234519.0
+Norway,NOR,2015,"Population, total",SP.POP.TOTL,5188607.0
+Norway,NOR,2014,"Population, total",SP.POP.TOTL,5137232.0
+Poland,POL,2024,"Population, total",SP.POP.TOTL,36559233.0
+Poland,POL,2023,"Population, total",SP.POP.TOTL,36687353.0
+Poland,POL,2022,"Population, total",SP.POP.TOTL,36821749.0
+Poland,POL,2021,"Population, total",SP.POP.TOTL,36981559.0
+Poland,POL,2020,"Population, total",SP.POP.TOTL,37515748.0
+Poland,POL,2019,"Population, total",SP.POP.TOTL,37965475.0
+Poland,POL,2018,"Population, total",SP.POP.TOTL,37974750.0
+Poland,POL,2017,"Population, total",SP.POP.TOTL,37974826.0
+Poland,POL,2016,"Population, total",SP.POP.TOTL,37970087.0
+Poland,POL,2015,"Population, total",SP.POP.TOTL,37986412.0
+Poland,POL,2014,"Population, total",SP.POP.TOTL,38011735.0
+Portugal,PRT,2024,"Population, total",SP.POP.TOTL,10694681.0
+Portugal,PRT,2023,"Population, total",SP.POP.TOTL,10578174.0
+Portugal,PRT,2022,"Population, total",SP.POP.TOTL,10434332.0
+Portugal,PRT,2021,"Population, total",SP.POP.TOTL,10361831.0
+Portugal,PRT,2020,"Population, total",SP.POP.TOTL,10297081.0
+Portugal,PRT,2019,"Population, total",SP.POP.TOTL,10286263.0
+Portugal,PRT,2018,"Population, total",SP.POP.TOTL,10283822.0
+Portugal,PRT,2017,"Population, total",SP.POP.TOTL,10300300.0
+Portugal,PRT,2016,"Population, total",SP.POP.TOTL,10325452.0
+Portugal,PRT,2015,"Population, total",SP.POP.TOTL,10358076.0
+Portugal,PRT,2014,"Population, total",SP.POP.TOTL,10401062.0
+Sweden,SWE,2024,"Population, total",SP.POP.TOTL,10569709.0
+Sweden,SWE,2023,"Population, total",SP.POP.TOTL,10536632.0
+Sweden,SWE,2022,"Population, total",SP.POP.TOTL,10486941.0
+Sweden,SWE,2021,"Population, total",SP.POP.TOTL,10415811.0
+Sweden,SWE,2020,"Population, total",SP.POP.TOTL,10353442.0
+Sweden,SWE,2019,"Population, total",SP.POP.TOTL,10278887.0
+Sweden,SWE,2018,"Population, total",SP.POP.TOTL,10175214.0
+Sweden,SWE,2017,"Population, total",SP.POP.TOTL,10057698.0
+Sweden,SWE,2016,"Population, total",SP.POP.TOTL,9923085.0
+Sweden,SWE,2015,"Population, total",SP.POP.TOTL,9799186.0
+Sweden,SWE,2014,"Population, total",SP.POP.TOTL,9696110.0
