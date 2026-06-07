@@ -55,18 +55,6 @@ World Bank API → Python extraction → Raw JSON → Data cleaning → CSV / Ex
 
 Python, Requests, Pandas, SQLite, Streamlit, Plotly, Excel, CSV, World Bank API
 
-## Freelance Use Cases
-
-This type of project can be adapted for:
-
-- European market research
-- Country benchmarking
-- Expansion analysis
-- Investment research dashboards
-- Public data automation
-- Economic indicator tracking
-- Executive reporting
-- Regional business intelligence
 
 ## Repository Structure
 
@@ -91,16 +79,4 @@ european-market-intelligence-dashboard/
     ├── transformer.py
     ├── database.py
     └── utils.py
-```
 
-## How to Run Locally
-
-```powershell
-python -m venv .venv
-.venv\Scripts\activate
-pip install -r requirements.txt
-python src/extractor.py
-python src/transformer.py
-python src/database.py
-streamlit run app.py
-```
